@@ -6,3 +6,6 @@ This repository was created for a blog post at http://masblogcentral.wordpress.c
 Todo:
 - Use Bower to manage dependencies.
 - Use WebGL for faster rendering.
+
+
+PS: This was tested on Webkit-based browsers only (Chrome and Safari).
