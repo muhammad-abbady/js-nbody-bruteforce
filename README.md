@@ -1,4 +1,4 @@
-N-Body Simulation using JavaScript/D3
+N-Body Simulation using JavaScript/D3 (brute force)
 ===================
 
 This repository was created for a blog post at http://masblogcentral.wordpress.com/. Contact me for any questions.
